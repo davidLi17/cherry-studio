@@ -219,7 +219,7 @@
     "app-builder-lib@npm:26.0.13": "patch:app-builder-lib@npm%3A26.0.13#~/.yarn/patches/app-builder-lib-npm-26.0.13-a064c9e1d0.patch",
     "shiki": "3.2.2"
   },
-  "packageManager": "yarn@4.6.0",
+  "packageManager": "yarn@4.9.1",
   "lint-staged": {
     "*.{js,jsx,ts,tsx,cjs,mjs,cts,mts}": [
       "prettier --write",
